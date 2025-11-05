@@ -52,7 +52,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Wuhan University of Technology (WUT)</b><br>
-      B.S. in Information and Computing Science (Mathematics)<br>
+      B.S. in Information and Computing Science (Computational Mathematics)<br>
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2018.09 - 2022.06</i>
