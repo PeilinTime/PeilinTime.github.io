@@ -25,7 +25,7 @@ I have the great honor of being collaborating with Prof. [Liang Xie](https://sch
 
 My current research interests lie primarily in:
 
-- Spatio-temporal and Relational Modeling for Financial Time Series Forecasting.
+- Spatio-temporal and Graph-based Relational Modeling for Financial Time Series Forecasting.
 - Multimodal Learning with Large Language Models (LLMs).
 
 I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**Research Assistant opportunities**</span> after completing my M.S. (in about five months).
