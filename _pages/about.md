@@ -32,7 +32,7 @@ I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in C
 
 I am also open to <span style="color: red;">**collaboration opportunities**</span>—please feel free to reach out!
 
-# 📖 Educations
+# 📖 Education
 <table>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
