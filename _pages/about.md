@@ -114,7 +114,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 
 **[3] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
-Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
+{Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
 **Under review at WWW 2026**
 
@@ -130,7 +130,7 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 **[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
-Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
+{Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
 **Under review at WWW 2026**
 
@@ -146,7 +146,7 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 **[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
 
-Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
+{Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Huan Wang
 
 **Under review at AAAI 2026**
 
