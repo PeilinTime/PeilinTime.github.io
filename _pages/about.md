@@ -26,9 +26,9 @@ I have the great honor of being collaborating with Prof. [Liang Xie](https://sch
 My current research interests lie primarily in:
 
 - Multimodal Learning with Large Language Models (LLMs).
-- Spatio-temporal and Graph-based Relational Modeling for Time Series Forecasting.
+- Spatio-temporal Modeling and Graph Learning for Time Series Forecasting and applications
 
-I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**Research Assistant opportunities**</span> after completing my M.S. (in about five months).
+I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>.
 
 I am also open to <span style="color: red;">**collaboration opportunities**</span>—please feel free to reach out!
 
