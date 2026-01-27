@@ -192,7 +192,7 @@ Jiankai Zheng, Liang Xie, Yechen Yu, **Peilin Tan**
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Our paper <<LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation>> is accepted by DASFAA 2026! See you at Jeju Island, South Korea ~
+- *2026.01*: &nbsp;🎉🎉 Our paper <<LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation>> is accepted by DASFAA 2026! See you at Jeju Island, South Korea ~
 - *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
 - *2025.10*: &nbsp;😁 Excited to share our recent work "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts".
 - *2025.08*: &nbsp;😁 We open-sourced the [MaGNet](https://github.com/PeilinTime/MaGNet).
