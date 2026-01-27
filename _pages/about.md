@@ -109,10 +109,24 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 
 ## Contributed
 
+
+
+**[3] LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation**
+
+Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
+
+**Accepted by DASFAA 2026**
+
+
+**Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
+**[4] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
 {Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
@@ -128,7 +142,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
+**[5] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
 {Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
@@ -144,7 +158,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at AAAI 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
+**[6] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
 
 {Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Huan Wang
 
@@ -154,17 +168,7 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 **Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
 
 
-</div>
-</div>
 
-**[6] LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation**
-
-Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
-
-**Under review at DASFAA 2026**
-
-
-**Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
 
 
 
