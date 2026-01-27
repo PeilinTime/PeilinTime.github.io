@@ -165,7 +165,8 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 **Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
 
-
+</div>
+</div>
 
 
 
