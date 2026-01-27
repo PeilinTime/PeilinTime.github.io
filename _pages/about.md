@@ -67,14 +67,14 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to KDD 2026</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
 
 **Peilin Tan**, Liang Xie, {Churan Zhi#, Dian Tu#, Chuanqi Shi#}
 
-**Under review at WWW 2026**
+**Submitted to KDD 2026**
 
 **Short Summary:** H3M-SSMoEs, a hypergraph-based multimodal framework combining LLM reasoning and style-structured experts for stock prediction. 
 
@@ -87,14 +87,14 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to KDD 2026</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
 
 **Peilin Tan**, Chuanqi Shi, Dian Tu and Liang Xie
 
-**Under review at WWW 2026**
+**Submitted to KDD 2026**
 
 **Short Summary:** MaGNet, a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies. 
 
@@ -120,15 +120,45 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 **Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
 
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
+**[4] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
+
+Chuanqi Shi, **Peilin Tan**, Asif Ali Muhammad, Huan Wang
+
+**Submitted to ICML 2026**
+
+
+**Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
+
+</div>
+</div>
+
+**[5] Efficient Zero-shot Spatio-Temporal Forecasting via Multi-scale Expert Distilled Mixed Hashing Attention**
+
+Jiankai Zheng, Liang Xie, Yechen Yu, **Peilin Tan**
+
+**Submitted to ICML 2026**
+
+
+**Short Summary:** MSED-MHA, an efficient zero-shot spatio-temporal forecasting student model, uses selective multi-scale multi-expert distillation and a mixed attention design that fuses linear attention for global trends with spectral hashing attention for stable local refinement, achieving strong accuracy with low parameters.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to KDD 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[6] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
 {Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
-**Under review at WWW 2026**
+**Submitted to KDD 2026**
 
 **Short Summary:** Contend-LP, a conflict-resilient framework for directed link prediction that disentangles node-level invariant representations and edge-level asymmetric modeling through adversarial alignment.
 
@@ -137,14 +167,14 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation for ACM MM 2026</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
+**[7] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
 {Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
-**Under review at WWW 2026**
+**In preparation for ACM MM 2026**
 
 **Short Summary:** ARFM, an Adaptive Reinforced Filtering Method that combines pseudo-labeling, reinforcement learning, and dynamic reward filtering to identify and remove spurious links in noisy social networks.
 
@@ -153,20 +183,7 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at AAAI 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[6] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
-
-{Chuanqi Shi#, Asif Ali Muhammad#}, **Peilin Tan**, Huan Wang
-
-**Under review at AAAI 2026**
-
-
-**Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
-
-</div>
-</div>
 
 
 
@@ -179,5 +196,5 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 - *2025.08*: &nbsp;😁 We open-sourced the [MaGNet](https://github.com/PeilinTime/MaGNet).
 - *2025.08*: &nbsp;😁 Excited to share our work “MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning”.
 
-Last Update: 10/2025
+Last Update: 01/2026
 
