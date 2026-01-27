@@ -109,7 +109,8 @@ I am also open to <span style="color: red;">**collaboration opportunities**</spa
 
 ## Contributed
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/comming_soon.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **[3] LOSTFormer: Linear Orthogonal Spatio-Temporal Transformer with Learnable Rotation**
 
@@ -135,6 +136,9 @@ Chuanqi Shi, **Peilin Tan**, Asif Ali Muhammad, Huan Wang
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/comming_soon.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **[5] Efficient Zero-shot Spatio-Temporal Forecasting via Multi-scale Expert Distilled Mixed Hashing Attention**
 
