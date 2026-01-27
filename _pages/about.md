@@ -21,8 +21,6 @@ redirect_from:
 
 Hi, I’m Peilin, a master’s student at the University of California, San Diego.
 
-I have the great honor of being collaborating with Prof. [Liang Xie](https://scholar.google.com/citations?user=IQIak1wAAAAJ&hl=en&oi=ao).
-
 My current research interests lie primarily in:
 
 - Multimodal Learning with Large Language Models (LLMs).
