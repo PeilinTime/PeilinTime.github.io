@@ -121,6 +121,8 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 **Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,7 +151,8 @@ Jiankai Zheng, Liang Xie, Yechen Yu, **Peilin Tan**
 
 **Short Summary:** MSED-MHA, an efficient zero-shot spatio-temporal forecasting student model, uses selective multi-scale multi-expert distillation and a mixed attention design that fuses linear attention for global trends with spectral hashing attention for stable local refinement, achieving strong accuracy with low parameters.
 
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to KDD 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
